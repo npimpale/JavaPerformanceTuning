@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Demo5
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: admin
+Implementation-Vendor-Id: Demo5
+Build-Jdk: 1.8.0_05
+Implementation-URL: http://projects.spring.io/spring-boot/Demo5/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
